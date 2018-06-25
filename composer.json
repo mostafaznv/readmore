@@ -1,0 +1,50 @@
+{
+    "name": "mostafaznv/readmore",
+    "description": "ReadMore is a package to export summary from HTML data",
+    "keywords": [
+        "html",
+        "readmore",
+        "read-more",
+        "read more",
+        "dom",
+        "summary",
+        "mostafaznv"
+    ],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/mostafaznv/readmore/issues",
+        "source": "https://github.com/mostafaznv/readmore",
+        "docs": "https://github.com/mostafaznv/readmore/blob/master/README.md"
+    },
+    "authors": [
+        {
+            "name": "mostafaznv",
+            "email": "mostafa.zeinivand@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.1.3",
+        "scotteh/php-dom-wrapper": "^1.0",
+        "illuminate/support": "~5.5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mostafaznv\\ReadMore\\": "src/"
+        }
+    },
+
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        },
+        "laravel": {
+            "providers": [
+                "Mostafaznv\\ReadMore\\ReadMoreServiceProvider"
+            ],
+            "aliases": {
+                "ReadMore": "Mostafaznv\\ReadMore\\Facades"
+            }
+        }
+    }
+}
