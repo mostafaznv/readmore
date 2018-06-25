@@ -8,6 +8,7 @@
         "read more",
         "dom",
         "summary",
+        "laravel",
         "mostafaznv"
     ],
     "license": "MIT",
@@ -43,7 +44,7 @@
                 "Mostafaznv\\ReadMore\\ReadMoreServiceProvider"
             ],
             "aliases": {
-                "ReadMore": "Mostafaznv\\ReadMore\\Facades"
+                "ReadMore": "Mostafaznv\\ReadMore\\Facades\\ReadMore"
             }
         }
     }
