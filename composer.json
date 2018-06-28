@@ -1,13 +1,15 @@
 {
     "name": "mostafaznv/readmore",
-    "description": "ReadMore is a package to export summary from HTML data",
+    "description": "ReadMore is a laravel package to export summary from HTML data",
     "keywords": [
         "html",
         "readmore",
         "read-more",
         "read more",
+        "laravel-read-more",
         "dom",
         "summary",
+        "packalyst",
         "laravel",
         "mostafaznv"
     ],
