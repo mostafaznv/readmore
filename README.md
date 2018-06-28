@@ -64,6 +64,7 @@ class Post extends Model
 ## Contributors
 - Mostafa Zeinivand [@mostafaznv](https://github.com/mostafaznv)
 - Faezeh Ghorbannezhad [@Ghorbannezhad](https://github.com/Ghorbannezhad)
+- Ramin Khatibi [@raminix](https://github.com/raminix)
 - SamssonApps [@SamssonApps](https://github.com/SamssonApps)
 
 
