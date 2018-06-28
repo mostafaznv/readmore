@@ -61,7 +61,7 @@ class Post extends Model
 ```
 
 
-## توسعه دهنگان
+## Contributors
 - Mostafa Zeinivand [@mostafaznv](https://github.com/mostafaznv)
 - Faezeh Ghorbannezhad [@Ghorbannezhad](https://github.com/Ghorbannezhad)
 - SamssonApps [@SamssonApps](https://github.com/SamssonApps)
